@@ -1,0 +1,44 @@
+câu 2.1
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <director>Nguyễn Văn A</director>
+    <address>
+        <street>123 Đường ABC</street>
+        <district>Quận Hoàn Kiếm</district>
+        <city>Hà Nội</city>
+    </address>
+    <phone>0123456789</phone>
+    <tax_code>0101234567</tax_code>
+</company>
+
+câu 2.2
+<?xml version="1.0" encoding="UTF-8"?>
+<danh_sach_sinh_vien>
+    <sinh_vien>
+        <ma_sv>SV001</ma_sv>
+        <ten_sv>Nguyễn Văn A</ten_sv>
+        <nam_sinh>2000</nam_sinh>
+        <lop>CNTT01</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinh_vien>
+    <sinh_vien>
+        <ma_sv>SV002</ma_sv>
+        <ten_sv>Trần Thị B</ten_sv>
+        <nam_sinh>2001</nam_sinh>
+        <lop>CNTT02</lop>
+        <gioi_tinh>Nữ</gioi_tinh>
+    </sinh_vien>
+    <sinh_vien>
+        <ma_sv>SV003</ma_sv>
+        <ten_sv>Lê Văn C</ten_sv>
+        <nam_sinh>2002</nam_sinh>
+        <lop>CNTT01</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinh_vien>
+</danh_sach_sinh_vien>
+
+câu 2.3
+
+câu 2.4 (bên file btvn_tiet3.ipynb)
+
+câu 2.5 (bên file btvn_tiet3.ipynb)
